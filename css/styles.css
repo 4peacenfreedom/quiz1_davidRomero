@@ -1,0 +1,18 @@
+.contenedor {
+  width: 100%;
+  max-width: 600px;
+  padding-top: 25px;
+  padding-right: 50px;
+  padding-bottom: 10px;
+  padding-left: 50px;
+  border-top: red dashed 1px;
+  border-right: red dotted 1px;
+  border-bottom: green dashed 1px;
+  border-left: orange dotted 1px;
+}
+.contenedor {
+  width: 30%;
+  max-width: 300px;
+  border: 25px 10px;
+  border: red solid 2px;
+}
